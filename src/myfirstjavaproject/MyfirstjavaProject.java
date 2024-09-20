@@ -17,6 +17,7 @@ public class MyfirstjavaProject {
         System.out.println("Hello world");
         // TODO code application logic here
         //cgfhjkjlkl
+        /cgfhjkjklhjmk
     }
     
 }
